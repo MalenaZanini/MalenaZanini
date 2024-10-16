@@ -4,7 +4,7 @@ Sou **Cientista de Dados** com paixão por resolver problemas complexos e transf
 
 - 🌱 Explorando: **Machine Learning**, **Big Data**, e **Deep Learning**
 - 💬 Pergunte-me sobre: **Python**, **Data Analysis**, **Modelos Preditivos**
-- 📫 Como me encontrar: [seu_email@example.com](malena.zanini@gmail.com) | [LinkedIn](https://www.linkedin.com/in/malena-zanini-b055b21b1/)
+- 📫 Como me encontrar: [malena.zanini@gmail.com] | [https://www.linkedin.com/in/malena-zanini-b055b21b1/]
 
 
 ## 🛠️ Minhas Habilidades
