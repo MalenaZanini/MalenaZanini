@@ -1,17 +1,15 @@
 # Olá, eu sou Malena Zanini 👋
 
-Sou **Cientista de Dados** com paixão por resolver problemas complexos e transformar dados em insights valiosos. 
+Sou **Cientista de Dados** com conhecimentos em ferramentas como SQL , Power BI e Tableau. 
 
-- 🌱 Explorando: **Machine Learning**, **Big Data**, e **Deep Learning**
-- 💬 Pergunte-me sobre: **Python**, **Data Analysis**, **Modelos Preditivos**
+- 💬 Pergunte-me sobre: **Python**, **Data Analysis**, **Modelos Preditivos**,**Machine Learning**, **Big Data**, e **Deep Learning**
 - 📫 Como me encontrar: [malena.zanini@gmail.com] | [https://www.linkedin.com/in/malena-zanini-b055b21b1/]
 
 
 ## 🛠️ Minhas Habilidades
 
-- **Linguagens**: Python, SQL, Power BI
+
 - **Ferramentas de Data Science**: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, PyTorch
-- **Outras Ferramentas**: Git, , Tableau
 
 ## 📊 Minhas Estatísticas do GitHub
 
