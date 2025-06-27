@@ -1,6 +1,6 @@
 # Olá, eu sou Malena Zanini 👋
 
-Sou **Cientista de Dados** com conhecimentos em ferramentas de SQL , Power BI e Tableau. 
+Sou **Cientista de Dados** com conhecimentos em Python, SQL , Power BI e Tableau. 
 
 Link de projeto relevante...
 
