@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou trabalhando **Python e Machine Learning**
 
-- 👯 Também estou compartilhando conteúdo no Youtube [Canal Youtube](https://www.youtube.com/channel/UCAg-ddg4ptqzTP8mu4NlLSA)
+- 👯 Também estou compartilhando conteúdo do meu Portífolio [Canal Youtube](https://www.youtube.com/channel/UCAg-ddg4ptqzTP8mu4NlLSA)
 
 - 📝 Eu escrevo artigos no site [https://datamarketingdigital.com.br/blog/](https://datamarketingdigital.com.br/blog/)
 
