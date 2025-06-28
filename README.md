@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando com análise e visualização de dados [Viver de dados com Python]
 
-- 🌱 Atualmente estou trabalhando **Python e Machine Learning**
+- 🌱 Atualmente estudando **Python e Machine Learning**
 
 - 👯 Também estou compartilhando conteúdo do meu Portífolio [Canal Youtube](https://www.youtube.com/channel/UCAg-ddg4ptqzTP8mu4NlLSA)
 
