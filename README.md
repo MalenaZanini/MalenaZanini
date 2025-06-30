@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Malena Zanini</h1>
-<h3 align="center">Apaixonado por ciência e análise de dados no mundo digital</h3>
+<h3 align="center">Apaixonada por ciência e análise de dados no mundo digital</h3>
 
 - 🔭 Atualmente estou trabalhando com análise e visualização de dados [Viver de dados com Python]
 
