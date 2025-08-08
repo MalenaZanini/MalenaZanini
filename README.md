@@ -56,5 +56,3 @@ Utilizo **análise, mensuração e estratégia** para gerar insights valiosos e 
   <em>📌 "Dados não mentem, mas precisam de alguém para contar a história certa."</em>
 </p>
 
----
-> _"Dados não mentem, mas precisam de alguém para contar a história certa."_  
