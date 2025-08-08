@@ -1,7 +1,7 @@
 <h1 align="center">💎 Malena Zanini 💎</h1>
 
 <p align="center">
-  <em>"Transformando dados em decisões estratégicas e inteligentes"</em>
+   <em>📌 "Dados não mentem, mas precisam de alguém para contar a história certa."</em>
 </p>
 
 ---
@@ -53,6 +53,6 @@ Sou sua melhor parceira estratégica. Ciência de dados é filosófico para mim:
 ---
 
 <p align="center">
-  <em>📌 "Dados não mentem, mas precisam de alguém para contar a história certa."</em>
+
 </p>
 
