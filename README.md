@@ -8,7 +8,7 @@
 
 ## 👩‍💼 Sobre Mim
 
-Sou **sua melhor parceira estratégica** ciência de dados é filófico pra mim, começa do pensar, da comunicação, do planejamento, de estrategia e se usa de ferramentas de linguagem e visulizadoes para se tornar factivel. 
+Sou sua melhor parceira estratégica. Ciência de dados é filosófico para mim: começa no pensar, na comunicação, no planejamento, na estratégia e se utiliza de ferramentas de linguagem e visualizações para se tornar factível.
 
 🎓 **Formações & Certificações**
 - Engenharia de Produção
