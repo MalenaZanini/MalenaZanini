@@ -8,8 +8,7 @@
 
 ## 👩‍💼 Sobre Mim
 
-Sou **sua parceira estratégica** em Ciência de Dados e Inteligência de Negócios.  
-Utilizo **análise, mensuração e estratégia** para gerar insights valiosos e recomendações práticas que impulsionam empresas.
+Sou **sua melhor parceira estratégica** ciência de dados é filófico pra mim, começa do pensar, da comunicação, do planejamento, de estrategia e se usa de ferramentas de linguagem e visulizadoes para se tornar factivel. 
 
 🎓 **Formações & Certificações**
 - Engenharia de Produção
@@ -25,6 +24,7 @@ Utilizo **análise, mensuração e estratégia** para gerar insights valiosos e 
 ---
 
 ## 🎯 O que Eu Faço
+- Planejamento de resolução de problemas reais.
 - Dashboards interativos e impactantes no **Power BI**.  
 - Modelos preditivos com **Python**.  
 - Relatórios claros para decisões assertivas.  
