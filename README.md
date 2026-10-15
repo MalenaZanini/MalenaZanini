@@ -1,7 +1,7 @@
 <h1 align="center">💎 Malena Zanini 💎</h1>
 
 <p align="center">
-   <em>📌 "Dados não mentem, mas precisam de alguém para contar a história certa."</em>
+   <em>📌 "Apaixonada por estratificar processos complexos e torna los simples de solucionar"</em>
 </p>
 
 ---
